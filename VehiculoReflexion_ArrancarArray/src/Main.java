@@ -4,7 +4,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         // Crear un array de nombres de las subclases de Vehiculo
-        //Volador no se encuentra
+        // Volador no se encuentra
         String[] nombresSubclases = new String[]{"Maritimo", "Terrestre", "Volador"};
 
         // Crear una lista para almacenar las instancias de los vehículos
